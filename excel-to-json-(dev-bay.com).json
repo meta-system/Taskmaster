@@ -1,0 +1,452 @@
+[
+  {
+   "Task":"Episode 1: Melon buffet. (28 July 2015)",
+   "Description":"",
+   "Frank Skinner":"",
+   "Josh Widdicombe":"",
+   "Roisin Conaty":"",
+   "Romesh Ranganathan":"",
+   "Tim Key":""
+  },
+  {
+   "Task":"1",
+   "Description":"Prize: Most unusual item.",
+   "Frank Skinner": 4,
+   "Josh Widdicombe": 1,
+   "Roisin Conaty": 2,
+   "Romesh Ranganathan": 3,
+   "Tim Key": 5
+  },
+  {
+   "Task":"2",
+   "Description":"Eat as much watermelon as possible in one minute.",
+   "Frank Skinner": 2,
+   "Josh Widdicombe": 3,
+   "Roisin Conaty": 1,
+   "Romesh Ranganathan": 5,
+   "Tim Key": 4
+  },
+  {
+   "Task":"3",
+   "Description":"Paint the picture of a horse whilst riding a horse.",
+   "Frank Skinner": 5,
+   "Josh Widdicombe": 3,
+   "Roisin Conaty": 1,
+   "Romesh Ranganathan": 4,
+   "Tim Key": 2
+  },
+  {
+   "Task":"4",
+   "Description":"Completely empty this bathtub without removing the plug or tipping or damaging the bathtub.",
+   "Frank Skinner": 4,
+   "Josh Widdicombe": 3,
+   "Roisin Conaty": 2,
+   "Romesh Ranganathan": 5,
+   "Tim Key": 1
+  },
+  {
+   "Task":"5",
+   "Description":"Live: Pop on a onesie inside a pop-up tent.",
+   "Frank Skinner": 4,
+   "Josh Widdicombe": 3,
+   "Roisin Conaty": 1,
+   "Romesh Ranganathan": 2,
+   "Tim Key": 5
+  },
+  {
+   "Task":"T",
+   "Description":"Find Alex.",
+   "Frank Skinner":"\u2714",
+   "Josh Widdicombe":"\u2013",
+   "Roisin Conaty":"\u2013",
+   "Romesh Ranganathan":"\u2718",
+   "Tim Key":"\u2013"
+  },
+  {
+   "Task":"Total",
+   "Description":"",
+   "Frank Skinner": 19,
+   "Josh Widdicombe": 13,
+   "Roisin Conaty": 7,
+   "Romesh Ranganathan": 19,
+   "Tim Key": 17
+  },
+  {
+   "Task":"Episode 2: The pie whisperer. (4 August 2015)",
+   "Description":"",
+   "Frank Skinner":"",
+   "Josh Widdicombe":"",
+   "Roisin Conaty":"",
+   "Romesh Ranganathan":"",
+   "Tim Key":""
+  },
+  {
+   "Task":"1",
+   "Description":"Prize: Most impressive item.",
+   "Frank Skinner": 4,
+   "Josh Widdicombe": 2,
+   "Roisin Conaty": 3,
+   "Romesh Ranganathan": 1,
+   "Tim Key": 5
+  },
+  {
+   "Task":"2",
+   "Description":"High-five a 55-year-old.",
+   "Frank Skinner": 2,
+   "Josh Widdicombe": 5,
+   "Roisin Conaty": 4,
+   "Romesh Ranganathan": 1,
+   "Tim Key": 3
+  },
+  {
+   "Task":"3",
+   "Description":"Identify the contents of pies without breaching the pastry.",
+   "Frank Skinner": 1,
+   "Josh Widdicombe": 2,
+   "Roisin Conaty": 4,
+   "Romesh Ranganathan": 3,
+   "Tim Key": 5
+  },
+  {
+   "Task":"4",
+   "Description":"Do something that will look impressive in reverse.",
+   "Frank Skinner": 1,
+   "Josh Widdicombe": 4,
+   "Roisin Conaty": 5,
+   "Romesh Ranganathan": 5,
+   "Tim Key": 3
+  },
+  {
+   "Task":"5",
+   "Description":"Live: Crack the code, unshackle yourself and sprint 1 metre.",
+   "Frank Skinner": 1,
+   "Josh Widdicombe": 3,
+   "Roisin Conaty": 5,
+   "Romesh Ranganathan": 4,
+   "Tim Key": 2
+  },
+  {
+   "Task":"Total",
+   "Description":"",
+   "Frank Skinner": 9,
+   "Josh Widdicombe": 16,
+   "Roisin Conaty": 21,
+   "Romesh Ranganathan": 14,
+   "Tim Key": 18
+  },
+  {
+   "Task":"Episode 3: The poet and the egg. (11 August 2015)",
+   "Description":"",
+   "Frank Skinner":"",
+   "Josh Widdicombe":"",
+   "Roisin Conaty":"",
+   "Romesh Ranganathan":"",
+   "Tim Key":""
+  },
+  {
+   "Task":"1",
+   "Description":"Prize: Most meaningful item",
+   "Frank Skinner": 4,
+   "Josh Widdicombe": 2,
+   "Roisin Conaty": 1,
+   "Romesh Ranganathan": 5,
+   "Tim Key": 3
+  },
+  {
+   "Task":"2",
+   "Description":"Throw a tea bag into a mug from the furthest distance away.",
+   "Frank Skinner": 4,
+   "Josh Widdicombe":"DQ",
+   "Roisin Conaty": 2,
+   "Romesh Ranganathan": 3,
+   "Tim Key": 5
+  },
+  {
+   "Task":"3",
+   "Description":"Using this GPS device to track your route, create the best image for the Taskmaster",
+   "Frank Skinner": 2,
+   "Josh Widdicombe": 5,
+   "Roisin Conaty": 1,
+   "Romesh Ranganathan": 4,
+   "Tim Key": 3
+  },
+  {
+   "Task":"4",
+   "Description":"Buy the best present for the Taskmaster with \u00a320.",
+   "Frank Skinner": 3,
+   "Josh Widdicombe": 5,
+   "Roisin Conaty": 4,
+   "Romesh Ranganathan": 2,
+   "Tim Key": 1
+  },
+  {
+   "Task":"5",
+   "Description":"Get this egg as high as possible without breaking it.",
+   "Frank Skinner": 0,
+   "Josh Widdicombe": 5,
+   "Roisin Conaty": 0,
+   "Romesh Ranganathan": 4,
+   "Tim Key": 0
+  },
+  {
+   "Task":"6",
+   "Description":"Live: Stand up after 100 seconds.",
+   "Frank Skinner": 2,
+   "Josh Widdicombe": 5,
+   "Roisin Conaty": 1,
+   "Romesh Ranganathan": 4,
+   "Tim Key": 4
+  },
+  {
+   "Task":"T",
+   "Description":"What is Frank Skinner's age in minutes?",
+   "Frank Skinner":"\u2013",
+   "Josh Widdicombe":"\u2714",
+   "Roisin Conaty":"\u2013",
+   "Romesh Ranganathan":"\u2718",
+   "Tim Key":"\u2013"
+  },
+  {
+   "Task":"Total",
+   "Description":"",
+   "Frank Skinner": 15,
+   "Josh Widdicombe": 22,
+   "Roisin Conaty": 9,
+   "Romesh Ranganathan": 22,
+   "Tim Key": 16
+  },
+  {
+   "Task":"Episode 4: Down an octave. (18 August 2015)",
+   "Description":"",
+   "Frank Skinner":"",
+   "Josh Widdicombe":"",
+   "Roisin Conaty":"",
+   "Romesh Ranganathan":"",
+   "Tim Key":""
+  },
+  {
+   "Task":"1",
+   "Description":"Prize: Most beautiful item.",
+   "Frank Skinner": 3,
+   "Josh Widdicombe": 4,
+   "Roisin Conaty": 2,
+   "Romesh Ranganathan": 1,
+   "Tim Key": 5
+  },
+  {
+   "Task":"2",
+   "Description":"Make this ice block disappear as fast as possible.",
+   "Frank Skinner": 4,
+   "Josh Widdicombe": 5,
+   "Roisin Conaty": 3,
+   "Romesh Ranganathan": 2,
+   "Tim Key": 1
+  },
+  {
+   "Task":"3",
+   "Description":"Team: Get to 11 points as fast as possible.",
+   "Frank Skinner": 1,
+   "Josh Widdicombe": 2,
+   "Roisin Conaty": 2,
+   "Romesh Ranganathan": 2,
+   "Tim Key": 1
+  },
+  {
+   "Task":"4",
+   "Description":"Fill an egg cup with as many tears as possible.",
+   "Frank Skinner": 5,
+   "Josh Widdicombe": 3,
+   "Roisin Conaty": 1,
+   "Romesh Ranganathan": 4,
+   "Tim Key": 1
+  },
+  {
+   "Task":"S",
+   "Description":"Count the beans in the baked bean tin.",
+   "Frank Skinner":"\u2013",
+   "Josh Widdicombe": 1,
+   "Roisin Conaty":"\u2013",
+   "Romesh Ranganathan":"\u2013",
+   "Tim Key":"\u2013"
+  },
+  {
+   "Task":"",
+   "Description":"Count the hoops in this tin of spaghetti hoops.",
+   "Frank Skinner":"",
+   "Josh Widdicombe":"",
+   "Roisin Conaty":"",
+   "Romesh Ranganathan":"",
+   "Tim Key":""
+  },
+  {
+   "Task":"",
+   "Description":"Count the grains of rice in this bag of rice.",
+   "Frank Skinner":"",
+   "Josh Widdicombe":"",
+   "Roisin Conaty":"",
+   "Romesh Ranganathan":"",
+   "Tim Key":""
+  },
+  {
+   "Task":"5",
+   "Description":"Live: Memorise the names of an Australian rules football team.",
+   "Frank Skinner": 1,
+   "Josh Widdicombe": 1,
+   "Roisin Conaty": 1,
+   "Romesh Ranganathan": 1,
+   "Tim Key": 1
+  },
+  {
+   "Task":"Total",
+   "Description":"",
+   "Frank Skinner": 14,
+   "Josh Widdicombe": 16,
+   "Roisin Conaty": 9,
+   "Romesh Ranganathan": 10,
+   "Tim Key": 9
+  },
+  {
+   "Task":"Episode 5: Little denim shorts. (25 August 2015)",
+   "Description":"",
+   "Frank Skinner":"",
+   "Josh Widdicombe":"",
+   "Roisin Conaty":"",
+   "Romesh Ranganathan":"",
+   "Tim Key":""
+  },
+  {
+   "Task":"1",
+   "Description":"Prize: Most valuable item.",
+   "Frank Skinner": 4,
+   "Josh Widdicombe": 5,
+   "Roisin Conaty": 1,
+   "Romesh Ranganathan": 3,
+   "Tim Key": 2
+  },
+  {
+   "Task":"2",
+   "Description":"Get this boulder as far from this place as possible.",
+   "Frank Skinner": 4,
+   "Josh Widdicombe": 5,
+   "Roisin Conaty": 1,
+   "Romesh Ranganathan": 2,
+   "Tim Key": 3
+  },
+  {
+   "Task":"3",
+   "Description":"Grow the longest nail in ten weeks.",
+   "Frank Skinner": 3,
+   "Josh Widdicombe": 5,
+   "Roisin Conaty": 2,
+   "Romesh Ranganathan": 4,
+   "Tim Key": 1
+  },
+  {
+   "Task":"4",
+   "Description":"Team: Make this bed to a hotel standard whilst holding hands.",
+   "Frank Skinner": 2,
+   "Josh Widdicombe": 0,
+   "Roisin Conaty": 0,
+   "Romesh Ranganathan": 0,
+   "Tim Key": 2
+  },
+  {
+   "Task":"5",
+   "Description":"Make this Swedish person blush.",
+   "Frank Skinner": 3,
+   "Josh Widdicombe": 1,
+   "Roisin Conaty": 5,
+   "Romesh Ranganathan": 4,
+   "Tim Key": 2
+  },
+  {
+   "Task":"6",
+   "Description":"Live: Blow up the biggest balloon whilst blindfolded.",
+   "Frank Skinner": 4,
+   "Josh Widdicombe": 2,
+   "Roisin Conaty": 5,
+   "Romesh Ranganathan": 3,
+   "Tim Key":"DQ"
+  },
+  {
+   "Task":"Total",
+   "Description":"",
+   "Frank Skinner": 20,
+   "Josh Widdicombe": 18,
+   "Roisin Conaty": 14,
+   "Romesh Ranganathan": 16,
+   "Tim Key": 10
+  },
+  {
+   "Task":"Episode 6: The last supper. (1 September 2015)",
+   "Description":"",
+   "Frank Skinner":"",
+   "Josh Widdicombe":"",
+   "Roisin Conaty":"",
+   "Romesh Ranganathan":"",
+   "Tim Key":""
+  },
+  {
+   "Task":"1",
+   "Description":"Prize: Most satisfying item.",
+   "Frank Skinner": 2,
+   "Josh Widdicombe": 4,
+   "Roisin Conaty": 1,
+   "Romesh Ranganathan": 3,
+   "Tim Key": 5
+  },
+  {
+   "Task":"2",
+   "Description":"Get the lowest golf score using eggs.",
+   "Frank Skinner": 4,
+   "Josh Widdicombe": 2,
+   "Roisin Conaty": 5,
+   "Romesh Ranganathan": 1,
+   "Tim Key": 3
+  },
+  {
+   "Task":"3",
+   "Description":"Team: Stage a realistic blooper from a home movie.",
+   "Frank Skinner": 2,
+   "Josh Widdicombe": 0,
+   "Roisin Conaty": 0,
+   "Romesh Ranganathan": 0,
+   "Tim Key": 2
+  },
+  {
+   "Task":"4",
+   "Description":"Make the best meal for the Taskmaster using ingredients beginning with every letter of the alphabet",
+   "Frank Skinner": 5,
+   "Josh Widdicombe": 1,
+   "Roisin Conaty": 1,
+   "Romesh Ranganathan": 4,
+   "Tim Key": 3
+  },
+  {
+   "Task":"5",
+   "Description":"Live: Wearing boxing gloves, put the blue sweets in the empty bowl.",
+   "Frank Skinner": 3,
+   "Josh Widdicombe": 2,
+   "Roisin Conaty": 1,
+   "Romesh Ranganathan": 4,
+   "Tim Key": 5
+  },
+  {
+   "Task":"Total",
+   "Description":"",
+   "Frank Skinner": 16,
+   "Josh Widdicombe": 9,
+   "Roisin Conaty": 8,
+   "Romesh Ranganathan": 12,
+   "Tim Key": 18
+  },
+  {
+   "Task":"Grand Total",
+   "Description":"",
+   "Frank Skinner": 93,
+   "Josh Widdicombe": 94,
+   "Roisin Conaty": 68,
+   "Romesh Ranganathan": 93,
+   "Tim Key": 88
+  }
+]

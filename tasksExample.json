@@ -1,0 +1,17 @@
+[
+  {
+    "Series" : "1",
+    "Episode" : 1,
+    "Episode Title" : "TestEpisodeTitle",
+    "Number" : 1,
+    "Type" : "Prize",
+    "Description" : "Most unusual item.",
+    "Points" : {
+      "Frank Skinner": 4,
+      "Josh Widdicombe": 1,
+      "Roisin Conaty": 2,
+      "Romesh Ranganathan": 3,
+      "Tim Key": 5
+    }
+  }
+]

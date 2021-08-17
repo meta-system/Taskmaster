@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Bob Mortimer",
+    "birthday": "23 May 1959",
+    "sex" : "male",
+    "ethnicity" : "white",
+    "series" : ["5","CoC1"]
+  }
+]
